@@ -14,7 +14,7 @@ The goal of this build was to create a mixer without any need for a 3D-printer, 
 - [deej](https://github.com/omriharel/deej)
 
 ## Parts
-- 1x Arduino (Pro) Micro
+- 1x Arduino Micro
 - 6x Alps sliding potentiometers, linear, RSA0N12-LIN10K (most alps sliders should work. make sure they are linear and have the same footprint)
 - 5x M4 bolts
 - 20x M4 nuts
