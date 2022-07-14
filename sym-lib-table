@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RSA0N1219A03)(type Legacy)(uri ${KIPRJMOD}/libs/rsa0n1219a03/RSA0N1219A03.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/libs/Arduino/arduino.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/libs/Arduino/promicro.lib)(options "")(descr ""))
+)

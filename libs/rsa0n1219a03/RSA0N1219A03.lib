@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RSA0N1219A03
+#/624482/261867/2.46/8/4/Variable Resistor
+DEF RSA0N1219A03 VR 0 30 Y Y 1 F N
+F0 "VR" 1250 300 50 H V L CNN
+F1 "RSA0N1219A03" 1250 200 50 H V L CNN
+F2 "RSA0N1219A03" 1250 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/RSA0N1219A03.pdf" 1250 0 50 H I L CNN
+F4 "Slide Potentiometers Lo-profile Dual Unit 100mm Travel" 1250 -100 50 H I L CNN "Description"
+F5 "16.2" 1250 -200 50 H I L CNN "Height"
+F6 "688-RSA0N1219A03" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ALPS/RSA0N1219A03?qs=7mtp50H%2FHl5FhbkEDuTRIQ%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ALPS" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "RSA0N1219A03" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X CCW_1 A1 0 0 200 R 50 50 0 0 P
+X WIPER_1 A2 0 -100 200 R 50 50 0 0 P
+X CW_1 A3 0 -200 200 R 50 50 0 0 P
+X CCW_2 B1 0 -300 200 R 50 50 0 0 P
+X WIPER_2 B2 1400 0 200 L 50 50 0 0 P
+X CW_2 B3 1400 -100 200 L 50 50 0 0 P
+X MH1 MH1 1400 -200 200 L 50 50 0 0 P
+X MH2 MH2 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
